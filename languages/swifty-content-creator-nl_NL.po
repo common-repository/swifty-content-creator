@@ -1,0 +1,2217 @@
+# Translation of Swifty Content Creator in Dutch
+# This file is distributed under the same license as the Swifty Content Creator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Swifty Content Creator\n"
+"PO-Revision-Date: 2016-06-30 13:28:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/box/box.php:62
+#: js.php:1
+msgid "Box"
+msgstr "Box"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/box/box.php:74
+#: js.php:1 php/main.php:513
+msgid "Content"
+msgstr "Inhoud"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/box/box.php:80
+#: assets/bloglist/bloglist.php:239
+#: assets/contact_form_7/contact_form_7.php:27 assets/title/title.php:61
+#: assets/title/title.php:70 js.php:1
+msgid "Title"
+msgstr "Titel"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/maps/maps.php:53
+#: js.php:1
+msgid "Map"
+msgstr "Kaart"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/search_box/search_box.php:55
+#: js.php:1
+msgid "Search box"
+msgstr "Zoekbox"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/search_box/search_box.php:74
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/search_box/search_box.php:88
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/search_box/search_box.php:102
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:136
+#: assets/icon/icon.php:156 js.php:1
+msgid "Show"
+msgstr "Toon"
+
+#: ../../swifty_content_goodies_pack/plugin/swifty-content-goodies-pack/assets/sitemap/sitemap.php:138
+#: js.php:1
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:102
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:117
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slider/slider.php:166
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slideshow/slideshow.php:118
+#: assets/image/image.php:24
+msgid "No image selected yet."
+msgstr "Nog geen afbeelding geselecteerd"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:115
+#: js.php:1
+msgid "Flex Gallery"
+msgstr "Flex Gallery"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:128
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:143
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slider/slider.php:193
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slideshow/slideshow.php:145
+#: js.php:1
+msgid "Choose images"
+msgstr "Kies afbeeldingen"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:144
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:149
+#: assets/image/image.php:91
+msgid "Does nothing"
+msgstr "Doet niks"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:144
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:149
+#: assets/image/image.php:91
+msgid "Shows in lightbox"
+msgstr "Opent in lightbox"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_flex/gallery_flex.php:145
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:150
+#: assets/image/image.php:92
+msgid "Click on image:"
+msgstr "Klik op afbeelding:"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/gallery_grid/gallery_grid.php:130
+#: js.php:1
+msgid "Grid Gallery"
+msgstr "Grid Gallery"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slider/slider.php:179
+#: js.php:1
+msgid "Slider"
+msgstr "Slider"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slider/slider.php:200
+#: assets/video/video.php:172
+msgid "Start playing automatically"
+msgstr "Automatisch beginnen afspelen"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slider/slider.php:201
+#: assets/video/video.php:173
+msgid "autoplay"
+msgstr "autoplay"
+
+#: ../../swifty_content_visuals_pack/plugin/swifty-content-visuals-pack/assets/slideshow/slideshow.php:131
+#: js.php:1
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: assets/bloglist/bloglist.php:141 js.php:1
+msgid "Read more..."
+msgstr "Meer lezen..."
+
+#: assets/bloglist/bloglist.php:205
+msgid "Blog post list"
+msgstr "Blogpost lijst"
+
+#: assets/bloglist/bloglist.php:216
+msgid "All"
+msgstr "Alles"
+
+#: assets/bloglist/bloglist.php:216 assets/bloglist/bloglist.php:230
+msgid "Specific categories"
+msgstr "Specificeer categorie"
+
+#: assets/bloglist/bloglist.php:217
+msgid "Show from categories"
+msgstr "Toon uit categorieen"
+
+#: assets/bloglist/bloglist.php:223
+msgid "Maximum number of blog posts"
+msgstr "Maximaal aantal blogposts"
+
+#: assets/bloglist/bloglist.php:231
+msgid ""
+"You can type one or more existing category names, so the blog posts will be "
+"filtered. Separate multiple categories with a comma ','"
+msgstr ""
+"Je kunt 1 of meer bestaande categorie-namen typen, zodat de blog-posts "
+"gefilterd worden. Scheidt meerdere categorieen met een komma ','"
+
+#: assets/bloglist/bloglist.php:240
+msgid "Title Date"
+msgstr "Titel Datum"
+
+#: assets/bloglist/bloglist.php:241
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: assets/bloglist/bloglist.php:242
+msgid "Summary Info"
+msgstr "Samenvatting Info"
+
+#: assets/bloglist/bloglist.php:243
+msgid "Visual Summary"
+msgstr "Visueel Samenvatting"
+
+#: assets/bloglist/bloglist.php:244
+msgid "Visual Summary Info"
+msgstr "Visueel Samenvatting Info"
+
+#: assets/bloglist/bloglist.php:245 assets/title/title.php:79 js.php:1
+msgid "Style"
+msgstr "Stijl"
+
+#: assets/button/button.php:109
+msgid "Button"
+msgstr "Knop"
+
+#: assets/button/button.php:117
+msgid "Change this button"
+msgstr "Verander deze knop"
+
+#: assets/button/button.php:118
+msgid "Button text"
+msgstr "Tekst van de knop"
+
+#: assets/button/button.php:124 assets/image/image.php:106
+msgid "New window"
+msgstr "Nieuw venster"
+
+#: assets/button/button.php:124 assets/image/image.php:106
+msgid "Same window"
+msgstr "Zelfde venster"
+
+#: assets/button/button.php:125 assets/image/image.php:107
+msgid "Open URL in:"
+msgstr "Open URL in:"
+
+#: assets/button/button.php:133 assets/icon/icon.php:178 js.php:1
+msgid "Link to page or URL"
+msgstr "Link naar pagina of URL"
+
+#: assets/button/button.php:140 assets/image/image.php:135
+#: assets/image/image.php:150 js.php:1 php/main.php:853
+msgid "Default"
+msgstr "Standaard"
+
+#: assets/button/button.php:141
+msgid "Style 1"
+msgstr "Stijl 1"
+
+#: assets/button/button.php:142
+msgid "Style 2"
+msgstr "Stijl 2"
+
+#: assets/button/button.php:143
+msgid "Style 3"
+msgstr "Stijl 3"
+
+#: assets/button/button.php:144
+msgid "Style 4"
+msgstr "Stijl 4"
+
+#: assets/button/button.php:145
+msgid "Style 5"
+msgstr "Stijl 5"
+
+#: assets/button/button.php:146
+msgid "Style 6"
+msgstr "Stijl 6"
+
+#: assets/button/button.php:152 assets/image/image.php:143
+msgid "Style type"
+msgstr "Stijl type"
+
+#: assets/button/button.php:159 assets/icon/icon.php:133 js.php:1
+msgid "Color"
+msgstr "Kleur"
+
+#: assets/button/button.php:170 js.php:1
+msgid "Background"
+msgstr "Achtergrond"
+
+#: assets/contact_form/contact_form.php:6
+msgid "Your form has been successfully submitted."
+msgstr "Je formulier is succesvol verzonden."
+
+#: assets/contact_form/contact_form.php:7
+msgid "A new message has been received."
+msgstr "Er is een nieuw bericht binnen gekomen."
+
+#: assets/contact_form/contact_form.php:206
+#: assets/contact_form/contact_form.php:266
+msgid "Name:"
+msgstr "Naam:"
+
+#: assets/contact_form/contact_form.php:207
+#: assets/contact_form/contact_form.php:273
+msgid "Email:"
+msgstr "Email:"
+
+#: assets/contact_form/contact_form.php:208
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+#: assets/contact_form/contact_form.php:209
+#: assets/contact_form/contact_form.php:296
+msgid "Message:"
+msgstr "Bericht:"
+
+#: assets/contact_form/contact_form.php:210
+msgid "Enter the text:"
+msgstr "Voer de tekst in:"
+
+#: assets/contact_form/contact_form.php:211
+msgid "Submit"
+msgstr "Verstuur"
+
+#: assets/contact_form/contact_form.php:212
+msgid "Submitting..."
+msgstr "Aan het verzenden..."
+
+#: assets/contact_form/contact_form.php:240
+msgid "New Form"
+msgstr "Nieuw Formulier"
+
+#: assets/contact_form/contact_form.php:281
+msgid "Phone:"
+msgstr "Telefoonnummer:"
+
+#: assets/contact_form/contact_form.php:329
+msgid "Contact form"
+msgstr "Contact formulier"
+
+#: assets/contact_form/contact_form.php:342
+msgid "Send all messages to this email"
+msgstr "Stuur alle berichten naar dit email-adres"
+
+#: assets/contact_form/contact_form.php:349
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: assets/contact_form/contact_form.php:357
+msgid "Thank you text"
+msgstr "Bedanktekst"
+
+#: assets/contact_form_7/contact_form_7.php:11
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: assets/contact_form_7/contact_form_7.php:20
+msgid "Id"
+msgstr "Id"
+
+#: assets/divider/divider.php:42
+msgid "Divider"
+msgstr "Divider"
+
+#: assets/divider/divider.php:52 assets/icon/icon.php:140 js.php:1
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: assets/divider/divider.php:59
+msgid "Height"
+msgstr "Hoogte"
+
+#: assets/html/html.php:36
+msgid "Html"
+msgstr "Html"
+
+#: assets/html/html.php:46
+msgid "Html code"
+msgstr "Html code"
+
+#: assets/icon/icon.php:108
+msgid "Icon"
+msgstr "Icon"
+
+#: assets/icon/icon.php:119
+msgid "Pick icon"
+msgstr "Kies icon"
+
+#: assets/icon/icon.php:125
+msgid "Size"
+msgstr "Grootte"
+
+#: assets/icon/icon.php:148
+msgid "Pick background icon"
+msgstr "Kies achtergrond icon"
+
+#: assets/icon/icon.php:155
+msgid "Show background icon"
+msgstr "Toon achtergrond icon"
+
+#: assets/icon/icon.php:163
+msgid "Size background icon"
+msgstr "Grootte achtergrond icon"
+
+#: assets/icon/icon.php:171
+msgid "Color background icon"
+msgstr "Kleur achtergrond icon"
+
+#: assets/image/image.php:72 js.php:1
+msgid "Image"
+msgstr "Afbeelding"
+
+#: assets/image/image.php:85 js.php:1
+msgid "Choose image"
+msgstr "Kies plaatje"
+
+#: assets/image/image.php:91
+msgid "Goes to a URL"
+msgstr "Gaat naar een URL"
+
+#: assets/image/image.php:98
+msgid "Specify URL"
+msgstr "Specificeer URL"
+
+#: assets/image/image.php:114
+msgid "Image caption"
+msgstr "Afbeelding onderschrift"
+
+#: assets/image/image.php:121
+msgid "Image description (alt text)"
+msgstr "Beschrijving van afbeelding (alt text)"
+
+#: assets/image/image.php:136
+msgid "Basic"
+msgstr "Basis"
+
+#: assets/image/image.php:137
+msgid "Rounded corners 1"
+msgstr "Ronde hoeken 1"
+
+#: assets/image/image.php:138
+msgid "Rounded corners 2"
+msgstr "Ronde hoeken 2"
+
+#: assets/image/image.php:139
+msgid "Oval"
+msgstr "Ovaal"
+
+#: assets/image/image.php:140
+msgid "Border 1"
+msgstr "Rand 1"
+
+#: assets/image/image.php:141
+msgid "Border 2"
+msgstr "Rand 2"
+
+#: assets/image/image.php:142
+msgid "Floating"
+msgstr "Zwevend"
+
+#: assets/image/image.php:151
+msgid "More padding"
+msgstr "Meer witruimte"
+
+#: assets/image/image.php:152
+msgid "Bold"
+msgstr "Vet"
+
+#: assets/image/image.php:153
+msgid "Overlay light"
+msgstr "Overlay licht"
+
+#: assets/image/image.php:154
+msgid "Overlay dark"
+msgstr "Overlay donker"
+
+#: assets/image/image.php:155
+msgid "Hover bottom"
+msgstr "Hover (muis) onder"
+
+#: assets/image/image.php:156
+msgid "Hover full"
+msgstr "Hover (muis) volledig"
+
+#: assets/image/image.php:157
+msgid "Caption style type"
+msgstr "Ondertitel stijl type"
+
+#: assets/quote/quote.php:55 assets/quote/quote.php:66
+msgid "Quote"
+msgstr "Quote"
+
+#: assets/quote/quote.php:72 js.php:1
+msgid "Author"
+msgstr "Auteur"
+
+#: assets/shortcode/shortcode.php:67
+msgid "A %s can not be shown while editing."
+msgstr "Een %s kan niet getoond worden tijdens het bewerken"
+
+#: assets/slider_revolution/slider_revolution.php:31
+msgid "Slider Revolution"
+msgstr "Slider Revolution"
+
+#: assets/slider_revolution/slider_revolution.php:40
+msgid "Alias"
+msgstr "Alias"
+
+#: assets/text/text.php:37 js.php:1
+msgid "Text"
+msgstr "Tekst"
+
+#: assets/title/title.php:69
+msgid "Headline - change this text"
+msgstr "Kopregel - verander deze tekst"
+
+#: assets/video/video.php:154 js.php:1
+msgid "Video"
+msgstr "Video"
+
+#: assets/video/video.php:163
+msgid "Youtube-link"
+msgstr "Youtube-link"
+
+#: assets/video/video.php:164
+msgid ""
+"Go to the Youtube.com website, find a video and copy it's url. Then paste it "
+"here. (The Youtube url's come in different types, but all are allowed here.)"
+msgstr ""
+"Ga naar de Youtube.com website, zoek een video en kopieer de url. Plak die "
+"dan hier. (De Youtube-url's zijn er in verschillende uitvoeringen, maar ze "
+"allemaal geschikt om hier te gebruiken)."
+
+#: js.php:1
+msgid "1,000,000 bottles of beer on the wall..."
+msgstr "Ik heb een potje met vet..."
+
+#: js.php:1
+msgid ""
+"ATTENTION!!! There is a problem with saving this page. Try to click this "
+"button every 30 seconds until the button is no longer red. Also check if you "
+"still have a decent Internet connection. If you do not do this, you might "
+"lose your latest changes."
+msgstr ""
+"LET OP!!! Er is een probleem met het bewaren van deze pagina. Probeer om de "
+"30 seconden op deze knop te klikken tot de knop niet langer rood is. Check "
+"ook of je Internet verbinding goed werkt. Als je dit niet doet, kun je je "
+"laatste wijzigingen verliezen."
+
+#: js.php:1
+msgid "About us"
+msgstr "Over ons"
+
+#: js.php:1
+msgid "Action"
+msgstr "Actie"
+
+#: js.php:1
+msgid "Add columns"
+msgstr "Voeg kolommen toe"
+
+#: js.php:1
+msgid "Add content"
+msgstr "Onderdelen toevoegen"
+
+#: js.php:1
+msgid "Add preset"
+msgstr "Voeg preset toe"
+
+#: js.php:1
+msgid ""
+"Adds the possibility to add layout (like padding, margin and alignment) to "
+"this item."
+msgstr ""
+"Voegt de mogelijkheid toe om opmaak toe te voegen aan dit item (zoals "
+"padding, marge en uitlijning)."
+
+#: js.php:1
+msgid "Adds the possibility to style this item."
+msgstr "Voegt de mogelijkheid toe om dit item te stylen."
+
+#: js.php:1
+msgid "Align"
+msgstr "Uitlijnen"
+
+#: js.php:1
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#: js.php:1
+msgid "Are we there yet?"
+msgstr "Zijn we er onderhand?"
+
+#: js.php:1
+msgid "Area settings"
+msgstr "Gebiedsinstellingen"
+
+#: js.php:1
+msgid "Area style"
+msgstr "Gebieds-stijl"
+
+#: js.php:1
+msgid "Autosave"
+msgstr "Automatisch bewaren"
+
+#: js.php:1
+msgid "Background image"
+msgstr "Achtergrond afbeelding"
+
+#: js.php:1
+msgid "Background type"
+msgstr "Achtergrond type"
+
+#: js.php:1
+msgid "Blank Page"
+msgstr "Lege pagina"
+
+#: js.php:1
+msgid "Border color"
+msgstr "Rand kleur"
+
+#: js.php:1
+msgid "Border width"
+msgstr "Rand breedte"
+
+#: js.php:1
+msgid "Both"
+msgstr "Beide"
+
+#: js.php:1
+msgid "Bottom"
+msgstr "Onder"
+
+#: js.php:1
+msgid "Bottom Bar"
+msgstr "Onderbalk"
+
+#: js.php:1
+msgid "Bottombar"
+msgstr "Onderbalk"
+
+#: js.php:1
+msgid "Break out"
+msgstr "Break out"
+
+#: js.php:1
+msgid "Breakout"
+msgstr "Breakout"
+
+#: js.php:1
+msgid "Cancel, do not delete"
+msgstr "Annuleer, niet verwijderen"
+
+#: js.php:1
+msgid "Cancel. Do not delete"
+msgstr "Annuleer. Niet verwijderen."
+
+#: js.php:1
+msgid "Cancel. Do not publish"
+msgstr "Annuleer. Niet publiceren. "
+
+#: js.php:1
+msgid "Cancel. Do not restore"
+msgstr "Annuleer. Niet herstellen."
+
+#: js.php:1
+msgid "Cancel. Forget changes"
+msgstr "Vergeet aanpassingen"
+
+#: js.php:1
+msgid "Center"
+msgstr "Centreer"
+
+#: js.php:1
+msgid "Center content vertically"
+msgstr "Centeer inhoud vertikaal"
+
+#: js.php:1
+msgid "Change columns layout"
+msgstr "Pas kolomverdeling aan"
+
+#: js.php:1
+msgid "Change layout"
+msgstr "Verander layout"
+
+#: js.php:1
+msgid "Change style"
+msgstr "Verander stijl"
+
+#: js.php:1
+msgid "Choose how to show each area"
+msgstr "Kies hoe elk gebied te tonen"
+
+#: js.php:1
+msgid "Click and drag to resize"
+msgstr "Klik en sleep om afmeting te veranderen"
+
+#: js.php:1
+msgid "Click for options or drag to move"
+msgstr "Klik voor opties of sleep om te verplaatsen"
+
+#: js.php:1
+msgid "Click to add content"
+msgstr "Klik om inhoud toe te voegen"
+
+#: js.php:1
+msgid "Click to edit"
+msgstr "Klik om aan te passen"
+
+#: js.php:1
+msgid "Click to hide this area"
+msgstr "Klik om dit gebied te verbergen"
+
+#: js.php:1
+msgid "Clipboard"
+msgstr "Klembord"
+
+#: js.php:1
+msgid "Column background"
+msgstr "Kolom achtergrond"
+
+#: js.php:1
+msgid "Column padding bottom"
+msgstr "Kolom padding onder"
+
+#: js.php:1
+msgid "Column padding left"
+msgstr "Kolom padding links"
+
+#: js.php:1
+msgid "Column padding right"
+msgstr "Kolom padding rechts"
+
+#: js.php:1
+msgid "Column padding top"
+msgstr "Kolom padding boven"
+
+#: js.php:1
+msgid "Columns"
+msgstr "Kolommen"
+
+#: js.php:1
+msgid "Columns are now locked"
+msgstr "Kolommen zijn nu op slot"
+
+#: js.php:1
+msgid "Columns are now unlocked"
+msgstr "Kolommen zijn nu niet op slot"
+
+#: js.php:1
+msgid "Coming soon"
+msgstr "Binnenkort"
+
+#: js.php:1
+msgid "Contact"
+msgstr "Contact"
+
+#: js.php:1
+msgid "Contact the administrator to change it."
+msgstr "Neem contact op met de beheerder om dit aan te passen."
+
+#: js.php:1
+msgid "Contain"
+msgstr "Bevat"
+
+#: js.php:1
+msgid "Content breakout"
+msgstr "Inhoud breakout"
+
+#: js.php:1
+msgid "Convert"
+msgstr "Zet om"
+
+#: js.php:1
+msgid "Convert to Swifty Content Creator image?"
+msgstr "Omzetten naar Swifty Content Creator afbeelding?"
+
+#: js.php:1
+msgid "Copy [lcname]"
+msgstr "Kopieer [lcname]"
+
+#: js.php:1
+msgid "Copy columns"
+msgstr "Kopieer kolommen"
+
+#: js.php:1
+msgid "Cover"
+msgstr "Bedek"
+
+#: js.php:1
+msgid "Crop"
+msgstr "Afknippen"
+
+#: js.php:1
+msgid "Custom"
+msgstr "Aangepast"
+
+#: js.php:1
+msgid "Custom color"
+msgstr "Eigen kleur"
+
+#: js.php:1
+msgid "Custom css"
+msgstr "Speciale css"
+
+#: js.php:1
+msgid "Delete [lcname]"
+msgstr "Verwijder [lcname]"
+
+#: js.php:1
+msgid "Delete [lcname] permanently"
+msgstr "Verwijder [lcname] definitief"
+
+#: js.php:1
+msgid "Delete [lcname]?"
+msgstr "Verwijder [lcname]?"
+
+#: js.php:1
+msgid "Delete columns"
+msgstr "Kolommen verwijderen"
+
+#: js.php:1
+msgid "Delete these columns with all content permanently"
+msgstr "Verwijder deze kolommen met alle inhoud definitief"
+
+#: js.php:1
+msgid "Delete these columns with all the content?"
+msgstr "Verwijder deze kolommen met al hun inhoud?"
+
+#: js.php:1
+msgid "Do not convert."
+msgstr "Zet niet om"
+
+#: js.php:1
+msgid ""
+"Done! The content of this page is now set to that previous version."
+"<br><br>This version overwrites any autosaved changes made since the last "
+"publish.<br><br>If you do not want that use the undo button now.<br><br>The "
+"visitors of your site still see the last published version until you publish "
+"this one."
+msgstr ""
+"Klaar! De inhoud van deze pagina is nu ingesteld naar die vorige versie. "
+"<br><br> Deze versie overschrijft alle automatisch bewaarde veranderingen "
+"sinds de laatste publicering. <br><br> Als je dat niet wilt, gebruik dan nu "
+"de ongedaan-maak-knop. <br><br> De bezoekers van je site zien nog steeds de "
+"laatst gepubliceerde versie totdat je deze publiceert. "
+
+#: js.php:1
+msgid "Done! Your page is published and can now be seen by others"
+msgstr ""
+"Klaar! Je pagina is gepubliceerd en kan nu door anderen gezien worden. "
+
+#: js.php:1
+msgid "Down"
+msgstr "Omlaag"
+
+#: js.php:1
+msgid "Edit [areaname]?"
+msgstr "[areaname] aanpassen?"
+
+#: js.php:1
+msgid "Edit [lcname]"
+msgstr "Bewerk [lcname]"
+
+#: js.php:1
+msgid "Edit columns"
+msgstr "Kolommen aanpassen"
+
+#: js.php:1 php/main.php:1321 php/main_view.php:770
+msgid "Edit with Swifty"
+msgstr "Bewerk met Swifty"
+
+#: js.php:1
+msgid "Effect factor"
+msgstr "Effect factor"
+
+#: js.php:1
+msgid "Effect offset"
+msgstr "Effect verschuiving"
+
+#: js.php:1
+msgid "Enable layout"
+msgstr "Layout aanzetten"
+
+#: js.php:1
+msgid "Enable style"
+msgstr "Style aanzetten"
+
+#: js.php:1
+msgid "Extra Sidebar"
+msgstr "Extra Zijbalk"
+
+#: js.php:1
+msgid "Fade"
+msgstr "Vervagen"
+
+#: js.php:1
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#: js.php:1
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+#: js.php:1
+msgid "Fixed"
+msgstr "Vast"
+
+#: js.php:1
+msgid "Footer"
+msgstr "Footer"
+
+#: js.php:1
+msgid "Full width"
+msgstr "Volledige breedte"
+
+#: js.php:1
+msgid "Great. Let's keep this."
+msgstr "Prima. Laten we dit houden."
+
+#: js.php:1
+msgid "Hang on a sec... I know your data is here somewhere..."
+msgstr "Wacht even... Ik weet zeker dat jouw data hier ergens is..."
+
+#: js.php:1
+msgid "Header"
+msgstr "Header"
+
+#: js.php:1
+msgid "Hide"
+msgstr "Verberg"
+
+#: js.php:1
+msgid "Hide this message"
+msgstr "Verberg dit bericht"
+
+#: js.php:1
+msgid "Hold your breath... at least you're not on hold..."
+msgstr "Houdt je adem in... je staat gelukkig niet in de wacht..."
+
+#: js.php:1
+msgid "Homepage"
+msgstr "Homepage"
+
+#: js.php:1
+msgid "Horizontal position"
+msgstr "Horizontale positie"
+
+#: js.php:1
+msgid "Horizontally"
+msgstr "Horizontaal"
+
+#: js.php:1
+msgid "I will fill it with content myself ;-)"
+msgstr "Ik vul het zelf wel met inhoud :-)"
+
+#: js.php:1
+msgid "Icons"
+msgstr "Icons"
+
+#: js.php:1
+msgid "If content too high"
+msgstr "Als inhoud te hoog"
+
+#: js.php:1
+msgid "Image info"
+msgstr "Afbeeldings-info"
+
+#: js.php:1
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: js.php:1
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: js.php:1
+msgid "In"
+msgstr "In"
+
+#: js.php:1
+msgid "In and out"
+msgstr "In en uit"
+
+#: js.php:1
+msgid "Info"
+msgstr "Info"
+
+#: js.php:1
+msgid "Insert"
+msgstr "Voeg in"
+
+#: js.php:1
+msgid "Insert Shortcode"
+msgstr "Voeg Shortcode toe"
+
+#: js.php:1
+msgid "Insert text above"
+msgstr "Voeg tekst in erboven"
+
+#: js.php:1
+msgid "Insert text below"
+msgstr "Voeg tekst in eronder"
+
+#: js.php:1
+msgid "Inspire me with a set of content that I can edit and change"
+msgstr "Inspireer met met een inhouds-set die ik kan aanpassen"
+
+#: js.php:1
+msgid "Interactive"
+msgstr "Interactief"
+
+#: js.php:1
+msgid "Internal page"
+msgstr "Interne pagina"
+
+#: js.php:1
+msgid ""
+"It seems you are using a browser that is not fully compatible with "
+"SwiftySite.\n"
+"\n"
+"Right now only Chrome, Firefox and Safari (version 9 or higher) work "
+"completely reliable.\n"
+"\n"
+"Please use one of these browsers te work on your site.\n"
+"\n"
+"(Ofcourse your visitors can view your site with any browser on any device.)"
+msgid_plural "swifty-content-creator"
+msgstr[0] ""
+"Zo te zien gebruik je een browser die niet volledig compatible is met "
+"SwiftySite.\n"
+"\n"
+"Op dit moment werken Chrome, Firefox en Safari (versie 9 of hoger) compleet "
+"betrouwbaar.\n"
+"\n"
+"Gebruik alsjeblieft een van deze browsers om aan je site te werken.\n"
+"\n"
+"(Uiteraard kunnen je bezoekers wel de site bezoeken met elke browser op elk "
+"apparaat.)"
+msgstr[1] "swifty-content-creator"
+
+#: js.php:1
+msgid "It's still faster than you could draw it..."
+msgstr "Het is nog steeds sneller dan dat jij het kan tekenen..."
+
+#: js.php:1
+msgid "Just a second... (as if you had any other choice)"
+msgstr "Een secondje... (alsof je een andere keuze hebt)"
+
+#: js.php:1
+msgid ""
+"Keeping this preset implies you agree to the terms and conditions stated in "
+"the preset- and image licence."
+msgstr ""
+"Als je deze preset houdt, stem je in met de voorwaarden die genoemd zijn in "
+"de preset- en afbeelding licentie."
+
+#: js.php:1
+msgid "Layout"
+msgstr "Indeling"
+
+#: js.php:1
+msgid "Left"
+msgstr "Links"
+
+#: js.php:1
+msgid "Loading..."
+msgstr "Aan het laden..."
+
+#: js.php:1
+msgid "Manage areas for this page"
+msgstr "Beheer gebieden voor deze pagina"
+
+#: js.php:1
+msgid "Manage versions"
+msgstr "Beheer versies"
+
+#: js.php:1
+msgid ""
+"Manually saving is not necessary because all changes are automatically saved "
+"(but not yet published)."
+msgstr ""
+"Handmatig bewaren is niet nodig omdat alle evranderingen automatisch worden "
+"bewaard (maar nog niet gepubliceerd)."
+
+#: js.php:1
+msgid "Margin"
+msgstr "Marge"
+
+#: js.php:1
+msgid "Margin between columns"
+msgstr "Marge tussen kolommen"
+
+#: js.php:1
+msgid "Margin bottom"
+msgstr "Marge onder"
+
+#: js.php:1
+msgid "Margin left"
+msgstr "Marge links"
+
+#: js.php:1
+msgid "Margin right"
+msgstr "Marge rechts"
+
+#: js.php:1
+msgid "Margin top"
+msgstr "Marge boven"
+
+#: js.php:1
+msgid "Maximum height"
+msgstr "Maximum hoogte"
+
+#: js.php:1
+msgid "Meet the team"
+msgstr "Ontmoet ons team"
+
+#: js.php:1
+msgid "Message"
+msgstr "Bericht"
+
+#: js.php:1
+msgid "Minimum height"
+msgstr "Minimale hoogte"
+
+#: js.php:1
+msgid "Minimum width"
+msgstr "Minimale breedte"
+
+#: js.php:1
+msgid "Move"
+msgstr "Meer"
+
+#: js.php:1
+msgid "Move [lcname]"
+msgstr "Verplaats [lcname]"
+
+#: js.php:1
+msgid "Move and fade"
+msgstr "Beweeg en vervaag"
+
+#: js.php:1
+msgid "Move columns"
+msgstr "Kolommen verplaatsen"
+
+#: js.php:1
+msgid "Move direction"
+msgstr "Beweegrichting"
+
+#: js.php:1
+msgid "Moving"
+msgstr "Bewegend"
+
+#: js.php:1
+msgid "Nav Bar"
+msgstr "Navigatiebalk"
+
+#: js.php:1
+msgid "Navbar"
+msgstr "Navigatiebalk"
+
+#: js.php:1
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+#: js.php:1
+msgid "New page content"
+msgstr "Nieuwe pagina inhoud"
+
+#: js.php:1
+msgid "No"
+msgstr "Nee"
+
+#: js.php:1
+msgid "No messages"
+msgstr "Geen berichten"
+
+#: js.php:1
+msgid "None"
+msgstr "Geen"
+
+#: js.php:1
+msgid "Normal"
+msgstr "Normaal"
+
+#: js.php:1
+msgid "Okay. No problem :-)"
+msgstr "Okee. Geen probleem :-)"
+
+#: js.php:1
+msgid "Okay. Thank you!"
+msgstr "Okee. Bedankt!"
+
+#: js.php:1
+msgid "One moment please..."
+msgstr "Een momentje alsjeblieft..."
+
+#: js.php:1
+msgid "One moment..."
+msgstr "Een moment..."
+
+#: js.php:1
+msgid "Options"
+msgstr "Opties"
+
+#: js.php:1
+msgid "Other stuff"
+msgstr "Ander spul"
+
+#: js.php:1
+msgid "Our team"
+msgstr "Ons Team"
+
+#: js.php:1
+msgid "Out"
+msgstr "Uit"
+
+#: js.php:1
+msgid "Overlay color"
+msgstr "Overlay kleur"
+
+#: js.php:1
+msgid "Overlay transparency %"
+msgstr "Overlay transparantie %"
+
+#: js.php:1
+msgid "Padding"
+msgstr "Padding"
+
+#: js.php:1
+msgid "Padding bottom"
+msgstr "Padding onder"
+
+#: js.php:1
+msgid "Padding left"
+msgstr "Padding links"
+
+#: js.php:1
+msgid "Padding right"
+msgstr "Padding rechts"
+
+#: js.php:1
+msgid "Padding top"
+msgstr "Padding boven"
+
+#: js.php:1
+msgid "Page"
+msgstr "Pagina"
+
+#: js.php:1
+msgid "Page presets"
+msgstr "Pagina presets"
+
+#: js.php:1
+msgid "Parallax effect"
+msgstr "Parallax effect"
+
+#: js.php:1
+msgid "Paste"
+msgstr "Plakken"
+
+#: js.php:1
+msgid ""
+"Pasting not allowed. Paste content contains expired license content "
+"element(s):"
+msgstr ""
+"Plakken is niet toegestaan. De inhoud bevat elementen waarvan de licentie is "
+"verlopen:"
+
+#: js.php:1
+msgid "Percentage"
+msgstr "Percentage"
+
+#: js.php:1
+msgid "Permanently remove this image here and from all pages."
+msgstr "Verwijder deze afbeelding permanent en van alle pagina's."
+
+#: js.php:1
+msgid "Photos"
+msgstr "Foto's"
+
+#: js.php:1
+msgid "Pick area variant"
+msgstr "Kies een gebieds-variant"
+
+#: js.php:1
+msgid "Pick number of columns"
+msgstr "Kies aantal kolommen"
+
+#: js.php:1
+msgid "Please do not leave the page while we are still saving the changes."
+msgstr "Verlaat de pagina liever niet terwijl we nog aan het saven zijn."
+
+#: js.php:1
+msgid ""
+"Please publish or save draft before editing with Swifty Content Creator."
+msgstr ""
+"Graag eerst publiceren of opslaan als concept, voordat je gaat bewerken met "
+"Swifty Content Creator."
+
+#: js.php:1
+msgid "Preset"
+msgstr "Preset"
+
+#: js.php:1
+msgid "Presets"
+msgstr "Presets"
+
+#: js.php:1
+msgid "Previous versions"
+msgstr "Vorige versies"
+
+#: js.php:1
+msgid "Products"
+msgstr "Produkten"
+
+#: js.php:1
+msgid "Publish"
+msgstr "Publiceer"
+
+#: js.php:1
+msgid "Publish changes?"
+msgstr "Aanpassingen publiceren?"
+
+#: js.php:1
+msgid "Publish page"
+msgstr "Publiceer pagina"
+
+#: js.php:1
+msgid "Publish page so it can be seen by others"
+msgstr "Publiceer pagina zodat die gezien kan worden door anderen"
+
+#: js.php:1
+msgid "Publishing. Please wait..."
+msgstr "Aan het publiceren. Een momentje geduld alsjeblieft... "
+
+#: js.php:1
+msgid "Remove background image"
+msgstr "Verwijder achtergrond afbeelding"
+
+#: js.php:1
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: js.php:1
+msgid "Restore page to this version?"
+msgstr "Pagina naar deze versie herstellen?"
+
+#: js.php:1
+msgid "Restore this version"
+msgstr "Herstel deze versie"
+
+#: js.php:1
+msgid "Restoring. Please wait..."
+msgstr "Aan het herstellen. Een momentje geduld alsjeblieft..."
+
+#: js.php:1
+msgid "Reverse"
+msgstr "Omgekeerd"
+
+#: js.php:1
+msgid "Right"
+msgstr "Rechts"
+
+#: js.php:1
+msgid "Save failed"
+msgstr "Bewaren mislukt"
+
+#: js.php:1
+msgid "Saved"
+msgstr "Bewaard"
+
+#: js.php:1
+msgid "Saving..."
+msgstr "Aan het opslaan..."
+
+#: js.php:1
+msgid "Scroll effect"
+msgstr "Scroll effect"
+
+#: js.php:1
+msgid "Services"
+msgstr "Diensten"
+
+#: js.php:1
+msgid "Set background"
+msgstr "Kies achtergrond"
+
+#: js.php:1
+msgid "Shadow blur"
+msgstr "Schaduw vervagen"
+
+#: js.php:1
+msgid "Shadow color"
+msgstr "Schaduw kleur"
+
+#: js.php:1
+msgid "Shadow distance horizontal"
+msgstr "Schaduw afstand horizontaal"
+
+#: js.php:1
+msgid "Shadow distance vertical"
+msgstr "Schaduw afstand vertikaal"
+
+#: js.php:1
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: js.php:1
+msgid "Shortcode text"
+msgstr "Shortcode tekst"
+
+#: js.php:1
+msgid "Show editor on text selection"
+msgstr "Toon werkbalk bij het selecteren van tekst"
+
+#: js.php:1
+msgid "Show scrollbar"
+msgstr "Toon scrollbar"
+
+#: js.php:1
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: js.php:1
+msgid "Social"
+msgstr "Social"
+
+#: js.php:1
+msgid "Sorry, my dog ate all your messages..."
+msgstr "Sorry, mijn hond heeft al je berichten opgegeten..."
+
+#: js.php:1
+msgid "Start typing here or add content<br> by using the button at the bottom."
+msgstr "Begin hier te typen of voeg inhoud toe<br> via de knoppen hieronder."
+
+#: js.php:1
+msgid "Start with a blank page"
+msgstr "Start met een lege pagina"
+
+#: js.php:1
+msgid "Start with a preset page"
+msgstr "Start met een pagina preset"
+
+#: js.php:1
+msgid "Swifty Images"
+msgstr "Swifty plaatjes"
+
+#: js.php:1
+msgid "Swifty Patterns"
+msgstr "Swifty patronen"
+
+#: js.php:1
+msgid "Swifty Shape Patterns"
+msgstr "Swifty vorm patronen"
+
+#: js.php:1
+msgid "Swifty Stripe Patterns"
+msgstr "Swifty gestreepte patronen"
+
+#: js.php:1
+msgid "Switch between always showing the toolbar or only when you select text."
+msgstr ""
+"Schakel tussen het altijd tonen van de werkbalk of alleen wanneer je tekst "
+"selecteert. "
+
+#: js.php:1
+msgid "There are no settings."
+msgstr "Er zijn geen instellingen."
+
+#: js.php:1
+msgid ""
+"There are unpublished changes on this page.<br />If you restore an older "
+"page version,<br />these changes will be lost permanently."
+msgstr ""
+"Er zijn niet-gepubliceerde wijzigingen op deze pagina. <br /> Als je een "
+"oudere versie terug zet, <br /> zullen deze wijzigingen permanent verloren "
+"gaan. "
+
+#: js.php:1
+msgid "Third Party"
+msgstr "Van derden"
+
+#: js.php:1
+msgid ""
+"This content can not be editted here. Please contact the plugin developers "
+"of this content and ask them to provide Swifty edit mode."
+msgstr ""
+"Dit onderdeel kan hier niet aangepast worden. Neem even contact op met de "
+"plugin-ontwikkelaars van dit onderdeel en vraag hen om de Swifty edit-mode "
+"te voorzien. "
+
+#: js.php:1
+msgid "This content has been locked by an administrator."
+msgstr "Deze inhoud is op slot gezet door een beheerder."
+
+#: js.php:1
+msgid ""
+"This preset changes some of the areas on this page. You can change that "
+"later in the page options."
+msgstr ""
+"Deze preset verandert gebieden op deze pagina. Je kunt dat later veranderen "
+"in de pagina opties."
+
+#: js.php:1
+msgid "Toolbar switch"
+msgstr "Werkbalk switch"
+
+#: js.php:1
+msgid "Top"
+msgstr "Boven"
+
+#: js.php:1
+msgid "Top Bar"
+msgstr "Bovenbalk"
+
+#: js.php:1
+msgid "Topbar"
+msgstr "Bovenbalk"
+
+#: js.php:1
+msgid "Try this one"
+msgstr "Probeer deze"
+
+#: js.php:1
+msgid "Type"
+msgstr "Type"
+
+#: js.php:1
+msgid "Type your text here"
+msgstr "Typ hier je tekst"
+
+#: js.php:1
+msgid "URL"
+msgstr "URL"
+
+#: js.php:1
+msgid "Undo. Remove the preset."
+msgstr "Toch niet. Verwijder de preset."
+
+#: js.php:1
+msgid "Unlock more Super Powers"
+msgstr "Nog meer Super Powers"
+
+#: js.php:1
+msgid "Up"
+msgstr "Omhoog"
+
+#: js.php:1
+msgid "Update FAILED. Please go to the Wordpress admin plugins page."
+msgstr "Update MISLUKT. Ga alsjeblieft naar de WordPress admin plugins pagina."
+
+#: js.php:1
+msgid "Update FAILED. Please go to the Wordpress admin themes page."
+msgstr ""
+"Update MISLUKT. Ga alsjeblieft naar de WordPress admin weergave pagina."
+
+#: js.php:1
+msgid "Update was successful."
+msgstr "Update was succesvol."
+
+#: js.php:1
+msgid "Updating..."
+msgstr "Aan het updaten..."
+
+#: js.php:1
+msgid "Uploaded on"
+msgstr "Geüpload naar"
+
+#: js.php:1
+msgid "Vertical position"
+msgstr "Verticale positie"
+
+#: js.php:1
+msgid "Verticaly"
+msgstr "Verticaal"
+
+#: js.php:1
+msgid "Visuals"
+msgstr "Visuals"
+
+#: js.php:1
+msgid "We are still saving. Please try again in a minute."
+msgstr "We zijn nog aan het bewaren. Probeer het over een minuutje opnieuw."
+
+#: js.php:1
+msgid ""
+"We're getting the preset ready for your page. This can take a while, "
+"depending on complexity and the number of images."
+msgstr ""
+"We zijn de preset aan het klaarmaken voor je pagina. Dit kan even duren, "
+"afhankelijk van de complexiteit en het aantal afbeeldingen."
+
+#: js.php:1
+msgid "We're testing your patience..."
+msgstr "We testen je geduld..."
+
+#: js.php:1
+msgid "Width (%)"
+msgstr "Breedte (%)"
+
+#: js.php:1
+msgid ""
+"You can also move [t_type], by dragging the symbol at it's top right (when "
+"this panel is closed.)"
+msgstr ""
+"Je kunt [t_type] ook verplaatsen door het symbool rechtsboven te verslepen "
+"(als dit paneel gesloten is)."
+
+#: js.php:1
+msgid ""
+"You can edit the content by clicking inside the text and start typing there."
+msgstr ""
+"Je kunt de inhoud aanpassen door in de text te klikken en daar vervolgens te "
+"typen."
+
+#: js.php:1
+msgid "Zoom"
+msgstr "Zoom"
+
+#: js.php:1
+msgid "Zoom percentage"
+msgstr "Zoom percentage"
+
+#: js.php:1
+msgid "[ucname] is now locked"
+msgstr "[ucname] is nu op slot"
+
+#: js.php:1
+msgid "[ucname] is now unlocked"
+msgstr "[ucname] is nu niet op slot"
+
+#: js.php:1
+msgid "content"
+msgstr "Inhoud"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:174
+#: php/main.php:2635
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugin te "
+"installeren. Neem contact op met de beheerder van deze site om hulp te "
+"krijgen bij het installeren van de plugin."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugins te "
+"installeren. Neem contact op met de beheerder van deze site om hulp te "
+"krijgen bij het installeren van de plugins."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:175
+#: php/main.php:2636
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende plugin is op dit moment niet geactiveerd: %1$s."
+msgstr[1] "De volgende plugins zijnop dit moment niet geactiveerd: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:176
+#: php/main.php:2637
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+"De volgende aanbevolen plugin is op dit moment niet geactiveerd: %1$s."
+msgstr[1] ""
+"De volgende aanbevolen plugins zijn op dit moment niet geactiveerd: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:177
+#: php/main.php:2638
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugin te activeren. "
+"Neem contact op met de beheerder van deze site om hulp te krijgen bij het "
+"activeren van de plugin."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugins te "
+"activeren. Neem contact op met de beheerder van deze site om hulp te krijgen "
+"bij het activeren van de plugins."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:179
+#: php/main.php:2640
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugin te updaten. "
+"Neem contact op met de beheerder van deze site om hulp te krijgen bij het "
+"updaten van de plugin."
+msgstr[1] ""
+"Sorry, maar je hebt niet de juiste toestemming om de %s plugins te updaten. "
+"Neem contact op met de beheerder van deze site om hulp te krijgen bij het "
+"updaten van de plugins."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:180
+#: php/main.php:2641
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin plugin te installeren"
+msgstr[1] "Begin plugins te installeren"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:181
+#: php/main.php:2642
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin plugin te activeren"
+msgstr[1] "Begin plugins te activeren"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:184
+#: php/main.php:2644
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: php/class-swifty-pack-endpoints.php:90
+#: php/class-swifty-pack-endpoints.php:112
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten voor toegang tot deze pagina."
+
+#: php/class-swifty-pack-endpoints.php:116
+msgid "Pack already installed and licensed."
+msgstr "Pack is al geinstalleerd en gelicenseerd."
+
+#: php/class-swifty-pack-endpoints.php:157
+msgid "Pack is installed, activated and licensed."
+msgstr "Pack is al geinstalleerd, geactiveerd en gelicenseerd."
+
+#: php/class-swifty-pack-endpoints.php:159
+msgid "Unable to activate pack."
+msgstr "Pack activeren is niet gelukt."
+
+#: php/class-swifty-pack-endpoints.php:163
+msgid "Unable to activate license."
+msgstr "Licentie activeren is niet gelukt."
+
+#: php/class-swifty-pack-endpoints.php:165
+msgid "Unable to retrieve license information."
+msgstr "Kan de licentie informatie niet ophalen."
+
+#: php/class-swifty-pack-endpoints.php:183
+msgid "Click here to close this message."
+msgstr "Klik hier om deze melding te sluiten."
+
+#: php/faicons.php:21
+msgid "No icon"
+msgstr "Geen icon"
+
+#: php/main.php:160
+msgid ""
+"You are about to permanently delete this item.\n"
+"WARNING! This image will also be removed from all pages of this site.\n"
+"\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Je staat op het punt dit item definitief te verwijderen.\n"
+"WAARSCHUWING! Het plaatje zal ook verwijderd worden van alle pagina's van "
+"deze site.\n"
+"\n"
+"'Annuleer' om af te breken, 'OK' om te verwijderen."
+
+#: php/main.php:179
+msgid "WAIT A MINUTE!"
+msgstr "WACHT EENS EVEN!"
+
+#: php/main.php:181
+msgid "There is a more recent auto-saved version of this page!"
+msgstr "Er is een nieuwere automatisch bewaarde versie van deze pagina!"
+
+#: php/main.php:183
+msgid ""
+"You will LOOSE ALL changes that you made to this page, unless you restore "
+"that autosave version."
+msgstr ""
+"Je zal ALLE veranderingen die je op deze pagania gemaakt hebt VERLIEZEN, "
+"tenzij je de automatisch bewaarde versie terugzet."
+
+#: php/main.php:186
+msgid "Click here to view the autosave and optionally restore it."
+msgstr ""
+"Klik hier om de automatisch bewaarde versie te bekijken en eventueel terug "
+"te zetten."
+
+#: php/main.php:189
+msgid ""
+"(Please note that Swifty Content Creator uses autosaves to save draft "
+"content of pages that are already published, so the draft content will not "
+"be visible to the public immediately. Not restoring now would destroy all "
+"draft content.)"
+msgstr ""
+"(Swifty Content Creator gebruikt automatisch bewaren om klad inhoud van "
+"pagina's die al gepubliceerd zijn te bewaren, zodat die klad inhoud nog niet "
+"meteen zichtbaar is voor de hele wereld. Als je nu niet terugzet gaat die "
+"klad inhoud verloren.)"
+
+#: php/main.php:495
+msgid "SwiftySite Content"
+msgstr "SwiftySite Inhoud"
+
+#: php/main.php:523
+msgid "Required plugins"
+msgstr "Vereiste plugins"
+
+#: php/main.php:559
+msgid "General"
+msgstr "Algemeen"
+
+#: php/main.php:653
+msgid "Space between paragraphs"
+msgstr "Ruimte tussen alineas"
+
+#: php/main.php:661
+msgid "On the fly convert paragraphs into p tags"
+msgstr "Zet paragrafen automatisch om naar p tags"
+
+#: php/main.php:669
+msgid "Media image sizes"
+msgstr "Media afbeeldingen maten"
+
+#: php/main.php:677
+msgid "Allow contacting Swifty servers"
+msgstr "Sta contact met Swifty servers toe"
+
+#: php/main.php:685
+msgid "Use mode"
+msgstr "Gebruiks-mode"
+
+#: php/main.php:693
+msgid "Enable lock options"
+msgstr "Zet op slot opties aan"
+
+#: php/main.php:701
+msgid "Disable wp-embed"
+msgstr "Schakel wp-embed uit"
+
+#: php/main.php:722
+msgid "Yes, get me the latest and greatest."
+msgstr "Ja, ik wil steeds het allernieuwste."
+
+#: php/main.php:729
+msgid "No thanks."
+msgstr "Nee bedankt."
+
+#: php/main.php:732
+msgid ""
+"Allow contacting the Swifty servers to get the latest stuff, like presets, "
+"and to gather anonymous statistics."
+msgstr ""
+"Sta contact met Swifty servers toe, om het nieuwste spul, zoals presets, te "
+"krijgen en anonieme statistieken te verzamelen."
+
+#: php/main.php:745
+msgid "Easy."
+msgstr "Makkelijk."
+
+#: php/main.php:752
+msgid "Advanced."
+msgstr "Geavanceerd."
+
+#: php/main.php:755
+msgid "Show more User Interface options in advanced mode."
+msgstr "Toon meer User Interface opties in geavanceerde mode."
+
+#: php/main.php:771
+msgid "Enable"
+msgstr "Aan"
+
+#: php/main.php:784
+msgid "Default."
+msgstr "Standaard."
+
+#: php/main.php:791
+msgid "Disable wp-embed."
+msgstr "Schakel wp-embed uit."
+
+#: php/main.php:794
+msgid ""
+"Wp-embed was introduced in WordPress 4.4 but causes pages with images to get "
+"a worse<br>Google PageSpeed Insights score, causing you to get a lower "
+"position in Google Search."
+msgstr ""
+"Wp-embed bestaat sinds WordPress 4.4 maar veroorzaakt dat pagina's met "
+"afbeeldingen een slechtere<br>Google PageSpeed Insights score krijgen, "
+"waardoor ze een lagere positie krijgen in Google Search."
+
+#: php/main.php:795
+msgid "We strongly advise to disable wp-embed."
+msgstr "We adviseren met klem om wp-embed uit te schakelen."
+
+#: php/main.php:817
+msgid ""
+"Hide space between paragraphs on ALL pages (remove bottom margin for p tags)"
+msgstr ""
+"Verberg de ruimte tussen alineas op ALLE pagina's (verwijder ondermarge voor "
+"p tags)"
+
+#: php/main.php:839
+msgid "Off"
+msgstr "Uit"
+
+#: php/main.php:846
+msgid "On"
+msgstr "Aan"
+
+#: php/main.php:855
+msgid ""
+"<b>Warning!</b> On sites that already have important content, do not change "
+"this setting unless absolutely sure!<br>On new sites it is advised to set "
+"this setting to \"off\".<br>This setting will toggle the Wordpress "
+"functionality \"wpautop\" on or off."
+msgstr ""
+"<b>Waarschuwing!</b> Op sites die al belangrijke inhoud hebben, deze optie "
+"niet veranderen tenzij je precies weet wat je doet!<br>Op nieuwe sites is "
+"het aan te bevelen deze optie op \"uit\" te zetten.<br>Deze optie zet de "
+"Wordpress functionaliteit \"wpautop\" aan of uit."
+
+#: php/main.php:876
+msgid "Use Wordpress sizes"
+msgstr "Gebruik Wordpress maten"
+
+#: php/main.php:883
+msgid "Use Swifty sizes"
+msgstr "Gebruik Swifty maten"
+
+#: php/main.php:890
+msgid "Use Wordpress and Swifty sizes"
+msgstr "Gebruik Wordpress en Swifty maten"
+
+#: php/main.php:892
+msgid ""
+"Auto generate image sizes after upload from within Swifty Content Creator."
+msgstr ""
+"Genereer afbeelding maten automatisch na uploaden in Swifty Content Creator."
+
+#: php/main.php:1002
+msgid "%s successfully uploaded"
+msgstr "%s goed geupload"
+
+#: php/main.php:1005
+msgid "upload of %s failed"
+msgstr "upload van %s mislukt"
+
+#: php/main.php:2239 php/main.php:2309 php/main.php:2341 php/main.php:2379
+#: php/main.php:2417 php/main.php:2441 php/main_view.php:548
+#: php/main_view.php:598 php/main_view.php:629
+msgid "You do not have sufficient permissions to access this page. #359"
+msgstr ""
+"Je hebt onvoldoende rechten om toegang tot deze pagina te krijgen. #359"
+
+#: php/main.php:2629
+msgid "Install Required Plugins"
+msgstr "Installeer Benodigde Plugins"
+
+#: php/main.php:2630
+msgid "Install Plugins"
+msgstr "Installeer Plugins"
+
+#: php/main.php:2631
+msgid "Installing Plugin: %s"
+msgstr "Plugin wordt geinstalleerd: %s"
+
+#: php/main.php:2632
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: php/main.php:2633
+msgid "Swifty plugin requires the following plugin: %1$s."
+msgid_plural "Swifty plugin requires the following plugins: %1$s."
+msgstr[0] "Swifty plugin vereist de volgende plugin: %1$s."
+msgstr[1] "Swifty plugin vereist de volgende plugins: %1$s."
+
+#: php/main.php:2634
+msgid "Swifty plugin recommends the following plugin: %1$s."
+msgid_plural "Swifty plugin recommends the following plugins: %1$s."
+msgstr[0] "Swifty plugin adviseert de volgende plugin: %1$s."
+msgstr[1] "Swifty plugin adviseert de volgende plugins: %1$s."
+
+#: php/main.php:2639
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with Swifty: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with Swifty: %1$s."
+msgstr[0] ""
+"De volgende plugin moet geüdated worden tot de laatste nieuwe versie om "
+"maximale compatibiliteit met Swifty te verzekeren: %1$s."
+msgstr[1] ""
+"De volgende plugins moeten geüdated worden tot de laatste nieuwe versie om "
+"maximale compatibiliteit met Swifty te verzekeren: %1$s."
+
+#: php/main.php:2643
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar de Aanbevolen Plugins Installer"
+
+#: php/main.php:2645
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins succesvol geïnstalleerd en geactiveerd. %s"
+
+#: php/main.php:2664
+msgid "Activate plugin \"%s\" to show this content"
+msgstr "Activeer plugin \"%s\"om deze inhoud te tonen"
+
+#: php/main_view.php:752
+msgid "Show autosaved version"
+msgstr "Toon automatisch bewaarde versie"
+
+#: php/main_view.php:761
+msgid "Show published version"
+msgstr "Toon gepubliceerde versie"
+
+#: lib/swifty_plugin/php/lang.php:7
+msgid "page"
+msgstr "pagina"
+
+#: lib/swifty_plugin/php/lang.php:8
+msgid "topbar"
+msgstr "bovenbalk"
+
+#: lib/swifty_plugin/php/lang.php:9
+msgid "header"
+msgstr "header"
+
+#: lib/swifty_plugin/php/lang.php:10
+msgid "navbar"
+msgstr "navigatiebalk"
+
+#: lib/swifty_plugin/php/lang.php:11
+msgid "sidebar"
+msgstr "zijbalk"
+
+#: lib/swifty_plugin/php/lang.php:12
+msgid "extrasidebar"
+msgstr "extrazijbalk"
+
+#: lib/swifty_plugin/php/lang.php:13
+msgid "footer"
+msgstr "footer"
+
+#: lib/swifty_plugin/php/lang.php:14
+msgid "bottombar"
+msgstr "onderbalk"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:29
+msgid "Mobile half"
+msgstr "Mobiel half"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:30
+msgid "Mobile small"
+msgstr "Mobiel smal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:31
+msgid "Mobile regular"
+msgstr "Mobiel normaal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:32
+msgid "Mobile landscape"
+msgstr "Mobiel landschap"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:33
+msgid "Desktop smallest"
+msgstr "Desktop kleinste"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:34
+msgid "Desktop small"
+msgstr "Desktop smal"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:35
+msgid "Desktop medium"
+msgstr "Desktop medium"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:36
+msgid "Desktop large"
+msgstr "Desktop groot"
+
+#: lib/swifty_plugin/php/lib/swifty-image-functions.php:37
+msgid "Full HD"
+msgstr "Full HD"
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:172
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit theme vereist de volgende plugin: %1$s."
+msgstr[1] "Dit theme vereist de volgende plugins: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:173
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit theme adviseert de volgende plugin: %1$s."
+msgstr[1] "Dit theme adviseert de volgende plugins: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:178
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De voglende plugin moet naar de laatste nieuwe versie geüpdated worden om "
+"maximale compatibiliteit met dit theme te verzekeren: %1$s."
+msgstr[1] ""
+"De voglende plugins moet naar de laatste nieuwe versie geüpdated worden om "
+"maximale compatibiliteit met dit theme te verzekeren: %1$s."
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:185
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:1781
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin werd succesvol geactiveerd: "
+msgstr[1] "De volgende plugins werden succesvol geactiveerd: "
+
+#: lib/swifty_plugin/php/lib/swifty_class-tgm-plugin-activation.php:187
+msgid "Dismiss this notice"
+msgstr "Negeer deze melding"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:123
+msgid "Licenses"
+msgstr "Licenties"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:318
+msgid "Swifty Plugins"
+msgstr "Swifty Plugins"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:320
+msgid "Active Swifty Plugins"
+msgstr "Actieve Swifty Plugins"
+
+#: lib/swifty_plugin/php/lib_swifty_plugin.php:405
+msgid "Swifty Settings"
+msgstr "Swifty Instellingen"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:75
+msgid "Activate"
+msgstr "Activeer"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:86
+msgid "Save Changes"
+msgstr "Bewaar aanpassingen"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:98
+msgid "License activation of %s"
+msgstr "Licentie activering van %s."
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:99
+msgid "Email"
+msgstr "Email"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:100
+msgid "License key"
+msgstr "Licentiesleutel"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:104
+msgid "License deactivation of %s"
+msgstr "Licentie deactivering van %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:105
+msgid "Deactivate License Key"
+msgstr "De-activeer Licentiesleutel"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:113
+msgid ""
+"Please enter the activation details you received from us, and click the "
+"'Activate' button."
+msgstr ""
+"Voer de activering-details die je van ons hebt gekregen in, en klik dan op "
+"\"Activeer'."
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:187
+msgid "Plugin activated. "
+msgstr "Plugin geactiveerd"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:268
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"De licentie kon niet gede-activeerd worden. Gebruik de Licentie De-activatie "
+"tab om handmatig de licentie te de-activeren voordat je een nieuwe licentie "
+"activeert. "
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:315
+msgid "Plugin license deactivated. "
+msgstr "Plugin licentie gede-activeerd"
+
+#: lib/swifty_plugin/php/swifty-licenses/admin/class-swifty-api-manager-menu.php:383
+msgid "Deactivates an API License Key so it can be used on another blog."
+msgstr ""
+"De-activeert een API Licentiesleutel zodat die door een ander blog gebruikt "
+"kan worden."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:365
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"De licentiesleutel voor %s is verlopen. Je kunt een licentiesleutel "
+"heractiveren of kopen vanuit je account  <a href=\"%s\" target=\"_blank"
+"\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:395
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Het abonnement voor %s is verlopen. Je kunt het abonnement heractiveren "
+"vanuit je account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:445
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"Een licentiesleutel voor %s kon niet gevonden worden. Misschien ben je "
+"vergeten een licentiesleutel in te geven toen je %s aan het opzetten was of "
+"de sleutel is gede-activeerd in je account.  Je kunt een licentiesleutel "
+"heractiveren of een nieuwe kopen vanuit je account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+
+#: lib/swifty_plugin/php/swifty-licenses/classes/class-swifty-api-manager-update-api-check.php:465
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s is niet geactiveerd. Ga naar de settingspagina en geef daar de "
+"licentiesleutel en het licentie-emailadres in om %s te activeren. "
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:146
+msgid "Activate %s"
+msgstr "Activeer %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:147
+msgid "Deactivate %s"
+msgstr "Deactiveer %s"
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:263
+msgid ""
+"The license key for <b>%s</b> has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and the plugin."
+msgstr ""
+"De licentie code voor <b>%s</b> is niet geactiveerd, dus de plugin is "
+"inactief! %sKlik hier%s om de licentie code en de plugin te activeren."
+
+#: lib/swifty_plugin/php/swifty-licenses/swifty-license-check.php:283
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+"<b>Waarschuwing!</b>Je blokkeert externe requests hetgeen betekent dat je "
+"geen %s updates kunt ontvangen. Voeg alsjebloeft %s toe aan %s."

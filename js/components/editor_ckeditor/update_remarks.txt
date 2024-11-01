@@ -1,0 +1,36 @@
+- Go to http://ckeditor.com/download and download the full package (ckeditor_4.5.6_full.zip)
+- Go to http://ckeditor.com/addon/widget and check version and download (widget_4.5.6.zip)
+- Go to http://ckeditor.com/addon/clipboard and check version and download (clipboard_4.5.6.zip )
+- Go to http://ckeditor.com/addon/lineutils and check version and download (lineutils_4.5.6.zip)
+- Go to http://ckeditor.com/addon/uploadimage and check version and download (uploadimage_4.5.6.zip)
+- Go to http://ckeditor.com/addon/uploadwidget and check version and download (uploadwidget_4.5.6.zip)
+- Go to http://ckeditor.com/addon/filetools and check version and download (filetools_4.5.6.zip)
+- Go to http://ckeditor.com/addon/notificationaggregator and check version and download (notificationaggregator_4.5.6.zip)
+- Go to http://ckeditor.com/addon/notification and check version and download (notification_4.5.6.zip)
+
+- Go to the libs/ckeditor directory and empty it completely.
+- Copy the contents of the main zip to this dir.
+- Copy the contents of the other zips to plugins dir. (Might do a few overwrites).
+
+Then:
+
+Changes that needs to be merged in the updated ckeditor files.
+Merge the following changes:
+
+- js/libs/ckeditor/plugins/filetools/plugin.js
+    + 2 extra lines in editor.on( 'fileUploadResponse', function( evt ) {
+    + 1 extra value in xhr.onload = function() {
+
+- js/libs/ckeditor/uploadimage/plugin.js
+    + 1 extra if statement in onUploaded: function( upload ) {
+
+
+// No longer needed:
+//
+// Verify the following files for changes:
+//
+// - js/components/editor_ckeditor/ckeditor_helpers/ckeditor_helper_cogs.js
+//     + compare onBlockWidgetDrag function with original code in js/libs/ckeditor/plugins/widget/plugin.js
+//     + compare onBlockWidgetDrop function with original code in js/libs/ckeditor/plugins/widget/plugin.js
+
+
